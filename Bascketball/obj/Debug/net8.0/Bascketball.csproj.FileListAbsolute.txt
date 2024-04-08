@@ -1,0 +1,14 @@
+C:\Users\santi\Desktop\Bascketball\bin\Debug\net8.0\Bascketball.exe
+C:\Users\santi\Desktop\Bascketball\bin\Debug\net8.0\Bascketball.deps.json
+C:\Users\santi\Desktop\Bascketball\bin\Debug\net8.0\Bascketball.runtimeconfig.json
+C:\Users\santi\Desktop\Bascketball\bin\Debug\net8.0\Bascketball.dll
+C:\Users\santi\Desktop\Bascketball\bin\Debug\net8.0\Bascketball.pdb
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.AssemblyInfo.cs
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.dll
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\refint\Bascketball.dll
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.pdb
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\Bascketball.genruntimeconfig.cache
+C:\Users\santi\Desktop\Bascketball\obj\Debug\net8.0\ref\Bascketball.dll
